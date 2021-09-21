@@ -1,0 +1,695 @@
+---------------------------- Input Menu -------------------------
+#Name		Index		2.00E+34
+L1_SingleMuCosmics		0		0
+L1_SingleMuCosmics_BMTF		1		0
+L1_SingleMuCosmics_OMTF		2		0
+L1_SingleMuCosmics_EMTF		3		0
+L1_SingleMuOpen		4		63000
+L1_SingleMu0_DQ		5		0
+L1_SingleMu0_BMTF		6		0
+L1_SingleMu0_OMTF		7		0
+L1_SingleMu0_EMTF		8		0
+L1_SingleMu3		9		22000
+L1_SingleMu5		10		1700
+L1_SingleMu7_DQ		11		0
+L1_SingleMu7		12		200
+L1_SingleMu12_DQ_BMTF		13		0
+L1_SingleMu12_DQ_OMTF		14		0
+L1_SingleMu12_DQ_EMTF		15		0
+L1_SingleMu15_DQ		16		1300
+L1_SingleMu18		17		210
+L1_SingleMu20		18		0
+L1_SingleMu22		19		1
+L1_SingleMu22_BMTF		20		0
+L1_SingleMu22_OMTF		21		0
+L1_SingleMu22_EMTF		22		0
+L1_SingleMu25		23		1
+L1_SingleMu6er1p5		25		0
+L1_SingleMu7er1p5		26		0
+L1_SingleMu8er1p5		27		0
+L1_SingleMu9er1p5		28		0
+L1_SingleMu10er1p5		29		0
+L1_SingleMu12er1p5		30		0
+L1_SingleMu14er1p5		31		0
+L1_SingleMu16er1p5		32		0
+L1_SingleMu18er1p5		33		0
+L1_DoubleMu0_OQ		39		0
+L1_DoubleMu0		40		0
+L1_DoubleMu0_SQ		41		1500
+L1_DoubleMu0_SQ_OS		42		0
+L1_DoubleMu0_Mass_Min1		43		0
+L1_DoubleMu8_SQ		44		1
+L1_DoubleMu9_SQ		45		1
+L1_DoubleMu_12_5		46		0
+L1_DoubleMu_15_5_SQ		47		1
+L1_DoubleMu_15_7		48		1
+L1_DoubleMu_15_7_SQ		49		1
+L1_DoubleMu_15_7_Mass_Min1		50		0
+L1_DoubleMu18er2p1		51		1
+L1_DoubleMu0er2p0_SQ_dR_Max1p4		53		0
+L1_DoubleMu0er2p0_SQ_OS_dR_Max1p4		54		0
+L1_DoubleMu0er1p5_SQ		55		0
+L1_DoubleMu0er1p5_SQ_OS		56		450
+L1_DoubleMu0er1p5_SQ_dR_Max1p4		57		2
+L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4		58		1
+L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4		59		1
+L1_DoubleMu4_SQ_OS		60		700
+L1_DoubleMu4_SQ_OS_dR_Max1p2		61		1
+L1_DoubleMu4p5_SQ_OS		62		800
+L1_DoubleMu4p5_SQ_OS_dR_Max1p2		63		1
+L1_DoubleMu4p5er2p0_SQ_OS		64		80
+L1_DoubleMu4p5er2p0_SQ_OS_Mass_Min7		65		1
+L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18		66		1
+L1_TripleMu0_OQ		71		0
+L1_TripleMu0		72		0
+L1_TripleMu0_SQ		73		0
+L1_TripleMu3		74		0
+L1_TripleMu3_SQ		75		1
+L1_TripleMu_5SQ_3SQ_0OQ		76		35
+L1_TripleMu_5_3p5_2p5		77		35
+L1_TripleMu_5_3_3		78		1
+L1_TripleMu_5_3_3_SQ		79		1
+L1_TripleMu_5_5_3		80		1
+L1_TripleMu_5_3p5_2p5_OQ_DoubleMu_5_2p5_OQ_OS_Mass_5to17		82		0
+L1_TripleMu_5_3p5_2p5_DoubleMu_5_2p5_OS_Mass_5to17		83		1
+L1_TripleMu_5_4_2p5_DoubleMu_5_2p5_OS_Mass_5to17		84		1
+L1_TripleMu_5SQ_3SQ_0OQ_DoubleMu_5_3_SQ_OS_Mass_Max9		85		1
+L1_TripleMu_5SQ_3SQ_0_DoubleMu_5_3_SQ_OS_Mass_Max9		86		1
+L1_QuadMu0_OQ		88		0
+L1_QuadMu0		89		0
+L1_QuadMu0_SQ		90		0
+L1_Mu5_EG23er2p5		96		0
+L1_Mu7_EG20er2p5		97		1
+L1_Mu7_EG23er2p5		98		1
+L1_Mu20_EG10er2p5		99		1
+L1_Mu5_LooseIsoEG20er2p5		100		0
+L1_Mu7_LooseIsoEG20er2p5		101		1
+L1_Mu7_LooseIsoEG23er2p5		102		1
+L1_Mu6_DoubleEG10er2p5		104		0
+L1_Mu6_DoubleEG12er2p5		105		1
+L1_Mu6_DoubleEG15er2p5		106		1
+L1_Mu6_DoubleEG17er2p5		107		1
+L1_DoubleMu4_SQ_EG9er2p5		109		0
+L1_DoubleMu5_SQ_EG9er2p5		110		1
+L1_DoubleMu3_OS_DoubleEG7p5Upsilon		112		1
+L1_DoubleMu5Upsilon_OS_DoubleEG3		113		1
+L1_Mu3_Jet30er2p5		119		11000
+L1_Mu3_Jet16er2p5_dR_Max0p4		121		400
+L1_Mu3_Jet35er2p5_dR_Max0p4		122		256
+L1_Mu3_Jet60er2p5_dR_Max0p4		123		52
+L1_Mu3_Jet80er2p5_dR_Max0p4		124		13
+L1_Mu3_Jet120er2p5_dR_Max0p8		125		3
+L1_Mu3_Jet120er2p5_dR_Max0p4		126		3
+L1_Mu3er1p5_Jet100er2p5_ETMHF40		128		1
+L1_Mu3er1p5_Jet100er2p5_ETMHF50		129		1
+L1_Mu6_HTT240er		131		1
+L1_Mu6_HTT250er		132		1
+L1_Mu10er2p3_Jet32er2p3_dR_Max0p4_DoubleJet32er2p3_dEta_Max1p6		134		0
+L1_Mu12er2p3_Jet40er2p3_dR_Max0p4_DoubleJet40er2p3_dEta_Max1p6		135		1
+L1_Mu12er2p3_Jet40er2p1_dR_Max0p4_DoubleJet40er2p1_dEta_Max1p6		136		1
+L1_DoubleMu0_dR_Max1p6_Jet90er2p5_dR_Max0p8		142		1
+L1_DoubleMu3_dR_Max1p6_Jet90er2p5_dR_Max0p8		143		1
+L1_DoubleMu3_SQ_ETMHF50_HTT60er		145		0
+L1_DoubleMu3_SQ_ETMHF50_Jet60er2p5_OR_DoubleJet40er2p5		146		1
+L1_DoubleMu3_SQ_ETMHF50_Jet60er2p5		147		1
+L1_DoubleMu3_SQ_ETMHF60_Jet60er2p5		148		1
+L1_DoubleMu3_SQ_HTT220er		150		1
+L1_DoubleMu3_SQ_HTT240er		151		1
+L1_DoubleMu3_SQ_HTT260er		152		1
+L1_SingleEG8er2p5		159		44000
+L1_SingleEG10er2p5		160		7600
+L1_SingleEG15er2p5		161		1350
+L1_SingleEG26er2p5		162		780
+L1_SingleEG28_FWD2p5		163		45
+L1_SingleEG28er2p5		164		0
+L1_SingleEG28er2p1		165		0
+L1_SingleEG28er1p5		166		0
+L1_SingleEG34er2p5		167		0
+L1_SingleEG36er2p5		168		1
+L1_SingleEG38er2p5		169		1
+L1_SingleEG40er2p5		170		1
+L1_SingleEG42er2p5		171		1
+L1_SingleEG45er2p5		172		1
+L1_SingleEG50		173		0
+L1_SingleEG60		174		1
+L1_SingleLooseIsoEG26er2p5		175		1
+L1_SingleLooseIsoEG26er1p5		176		1
+L1_SingleLooseIsoEG28_FWD2p5		177		1
+L1_SingleLooseIsoEG28er2p5		178		1
+L1_SingleLooseIsoEG28er2p1		179		1
+L1_SingleLooseIsoEG28er1p5		180		1
+L1_SingleLooseIsoEG30er2p5		181		1
+L1_SingleLooseIsoEG30er1p5		182		1
+L1_SingleIsoEG24er2p1		183	        1
+L1_SingleIsoEG24er1p5		184		1
+L1_SingleIsoEG26er2p5		185		1
+L1_SingleIsoEG26er2p1		186		1
+L1_SingleIsoEG26er1p5		187		1
+L1_SingleIsoEG28_FWD2p5		188		1
+L1_SingleIsoEG28er2p5		189		1
+L1_SingleIsoEG28er2p1		190		1
+L1_SingleIsoEG28er1p5		191		1
+L1_SingleIsoEG30er2p5		192		1
+L1_SingleIsoEG30er2p1		193		1
+L1_SingleIsoEG32er2p5		194		1
+L1_SingleIsoEG32er2p1		195		1
+L1_SingleIsoEG34er2p5		196		1
+L1_IsoEG32er2p5_Mt40		197		1
+L1_IsoEG32er2p5_Mt44		198		1
+L1_IsoEG32er2p5_Mt48		199		1
+L1_DoubleEG_15_10_er2p5		205		0
+L1_DoubleEG_20_10_er2p5		206		0
+L1_DoubleEG_22_10_er2p5		207		0
+L1_DoubleEG_25_12_er2p5		208		1
+L1_DoubleEG_25_14_er2p5		209		1
+L1_DoubleEG_27_14_er2p5		210		1
+L1_DoubleEG_LooseIso20_10_er2p5		212		0
+L1_DoubleEG_LooseIso22_10_er2p5		213		0
+L1_DoubleEG_LooseIso22_12_er2p5		214		1
+L1_DoubleEG_LooseIso25_12_er2p5		215		1
+L1_DoubleLooseIsoEG22er2p1		217		1
+L1_DoubleLooseIsoEG24er2p1		218		1
+L1_TripleEG_16_12_8_er2p5		224		0
+L1_TripleEG_16_15_8_er2p5		225		0
+L1_TripleEG_18_17_8_er2p5		226		1
+L1_TripleEG_18_18_12_er2p5		227		1
+L1_TripleEG16er2p5		228		1
+L1_LooseIsoEG26er2p1_Jet34er2p5_dR_Min0p3		234		0
+L1_LooseIsoEG28er2p1_Jet34er2p5_dR_Min0p3		235		1
+L1_LooseIsoEG30er2p1_Jet34er2p5_dR_Min0p3		236		1
+L1_LooseIsoEG24er2p1_HTT100er		238		0
+L1_LooseIsoEG26er2p1_HTT100er		239		1
+L1_LooseIsoEG28er2p1_HTT100er		240		1
+L1_LooseIsoEG30er2p1_HTT100er		241		1
+L1_DoubleEG8er2p5_HTT260er		247		0
+L1_DoubleEG8er2p5_HTT280er		248		0
+L1_DoubleEG8er2p5_HTT300er		249		1
+L1_DoubleEG8er2p5_HTT320er		250		1
+L1_DoubleEG8er2p5_HTT340er		251		1
+L1_LooseIsoEG22er2p1_IsoTau26er2p1_dR_Min0p3		257		1
+L1_LooseIsoEG24er2p1_IsoTau27er2p1_dR_Min0p3		258		1
+L1_LooseIsoEG22er2p1_Tau70er2p1_dR_Min0p3		259		1
+L1_SingleTau120er2p1		264		1
+L1_SingleTau130er2p1		265		1
+L1_DoubleTau70er2p1		267		1
+L1_DoubleIsoTau28er2p1		269		0
+L1_DoubleIsoTau30er2p1		270		0
+L1_DoubleIsoTau32er2p1		271		1
+L1_DoubleIsoTau34er2p1		272		1
+L1_DoubleIsoTau36er2p1		273		1
+L1_DoubleIsoTau28er2p1_Mass_Max90		274		0
+L1_DoubleIsoTau28er2p1_Mass_Max80		275		0
+L1_DoubleIsoTau30er2p1_Mass_Max90		276		0
+L1_DoubleIsoTau30er2p1_Mass_Max80		277		0
+L1_Mu18er2p1_Tau24er2p1		279		1
+L1_Mu18er2p1_Tau26er2p1		280		1
+L1_Mu22er2p1_IsoTau28er2p1		282		0
+L1_Mu22er2p1_IsoTau30er2p1		283		0
+L1_Mu22er2p1_IsoTau32er2p1		284		1
+L1_Mu22er2p1_IsoTau34er2p1		285		1
+L1_Mu22er2p1_IsoTau36er2p1		286		1
+L1_Mu22er2p1_IsoTau40er2p1		287		1
+L1_Mu22er2p1_Tau70er2p1		289		1
+L1_IsoTau40er2p1_ETMHF80		291		0
+L1_IsoTau40er2p1_ETMHF90		292		1
+L1_IsoTau40er2p1_ETMHF100		293		1
+L1_IsoTau40er2p1_ETMHF110		294		1
+L1_QuadJet36er2p5_IsoTau52er2p1		298		190
+L1_SingleJet35		309		64000
+L1_SingleJet60		310		17000
+L1_SingleJet90		311		1500
+L1_SingleJet120		312		350
+L1_SingleJet180		313		1
+L1_SingleJet200		314		1
+L1_SingleJet35er2p5		316		0
+L1_SingleJet60er2p5		317		0
+L1_SingleJet90er2p5		318		0
+L1_SingleJet120er2p5		319		0
+L1_SingleJet140er2p5		320		0
+L1_SingleJet160er2p5		321		0
+L1_SingleJet180er2p5		322		1
+L1_SingleJet35_FWD3p0		324		103000
+L1_SingleJet60_FWD3p0		325		770
+L1_SingleJet90_FWD3p0		326		250
+L1_SingleJet120_FWD3p0		327		40
+L1_SingleJet8erHE		329		0
+L1_SingleJet10erHE		330		0
+L1_SingleJet12erHE		331		0
+L1_SingleJet140er2p5_ETMHF70		332		0
+L1_SingleJet140er2p5_ETMHF80		333		0
+L1_SingleJet140er2p5_ETMHF90		334		0
+L1_DoubleJet40er2p5		340		8400
+L1_DoubleJet100er2p5		341		170
+L1_DoubleJet120er2p5		342		70
+L1_DoubleJet150er2p5		343		1
+L1_DoubleJet100er2p3_dEta_Max1p6		345		0
+L1_DoubleJet112er2p3_dEta_Max1p6		346		1
+L1_DoubleJet30er2p5_Mass_Min150_dEta_Max1p5		348		0
+L1_DoubleJet30er2p5_Mass_Min200_dEta_Max1p5		349		0
+L1_DoubleJet30er2p5_Mass_Min250_dEta_Max1p5		350		0
+L1_DoubleJet30er2p5_Mass_Min300_dEta_Max1p5		351		1
+L1_DoubleJet30er2p5_Mass_Min330_dEta_Max1p5		352		1
+L1_DoubleJet30er2p5_Mass_Min360_dEta_Max1p5		353		1
+L1_DoubleJet_90_30_DoubleJet30_Mass_Min620		355		0
+L1_DoubleJet_100_30_DoubleJet30_Mass_Min620		356		0
+L1_DoubleJet_110_35_DoubleJet35_Mass_Min620		357		1
+L1_DoubleJet_115_40_DoubleJet40_Mass_Min620		358		1
+L1_DoubleJet_120_45_DoubleJet45_Mass_Min620		359		1
+L1_DoubleJet_115_40_DoubleJet40_Mass_Min620_Jet60TT28		360		1
+L1_DoubleJet_120_45_DoubleJet45_Mass_Min620_Jet60TT28		361		1
+L1_DoubleJet35_Mass_Min450_IsoTau45_RmOvlp		363		0
+L1_DoubleJet_80_30_Mass_Min420_IsoTau40_RmOvlp		364		0
+L1_DoubleJet_80_30_Mass_Min420_Mu8		365		0
+L1_DoubleJet_80_30_Mass_Min420_DoubleMu0_SQ		366		0
+L1_TripleJet_95_75_65_DoubleJet_75_65_er2p5		372		1
+L1_TripleJet_100_80_70_DoubleJet_80_70_er2p5		373		1
+L1_TripleJet_105_85_75_DoubleJet_85_75_er2p5		374		1
+L1_QuadJet_95_75_65_20_DoubleJet_75_65_er2p5_Jet20_FWD3p0		376		1
+L1_QuadJet60er2p5		382		0
+L1_HTT280er_QuadJet_70_55_40_35_er2p4		384		0
+L1_HTT320er_QuadJet_70_55_40_40_er2p4		385		1
+L1_HTT320er_QuadJet_80_60_er2p1_45_40_er2p3		386		1
+L1_HTT320er_QuadJet_80_60_er2p1_50_45_er2p3		387		1
+L1_HTT120er		398		11400
+L1_HTT160er		399		4100
+L1_HTT200er		400		1600
+L1_HTT255er		401		500
+L1_HTT280er		402		0
+L1_HTT320er		403		0
+L1_HTT360er		404		1
+L1_HTT400er		405		1
+L1_HTT450er		406		1
+L1_ETT1200		410		0
+L1_ETT1600		411		0
+L1_ETT2000		412		1
+L1_ETM120		416		0
+L1_ETM150		417		1
+L1_ETMHF100		421		1
+L1_ETMHF110		422		1
+L1_ETMHF120		423		1
+L1_ETMHF130		424		1
+L1_ETMHF140		425		1
+L1_ETMHF150		426		1
+L1_ETMHF90_HTT60er		428		0
+L1_ETMHF100_HTT60er		429		1
+L1_ETMHF110_HTT60er		430		1
+L1_ETMHF120_HTT60er		431		1
+L1_ETMHF130_HTT60er		432		1
+L1_ETMHF120_NotSecondBunchInTrain		443		0
+L1_ETMHF110_HTT60er_NotSecondBunchInTrain		444		0
+#L1_SingleMuOpen_NotBptxOR		446		4000
+#L1_SingleMuOpen_er1p4_NotBptxOR_3BX		447		1
+#L1_SingleMuOpen_er1p1_NotBptxOR_3BX		448		1
+#L1_SingleJet20er2p5_NotBptxOR		450		4000
+#L1_SingleJet20er2p5_NotBptxOR_3BX		451		0
+#L1_SingleJet43er2p5_NotBptxOR_3BX		452		1
+#L1_SingleJet46er2p5_NotBptxOR_3BX		453		1
+L1_AlwaysTrue		458		0
+L1_ZeroBias		459		17881
+L1_ZeroBias_copy		460		0
+L1_MinimumBiasHF0_AND_BptxAND		461		0
+L1_NotBptxOR		463		0
+L1_BptxOR		464		0
+L1_BptxXOR		465		0
+L1_BptxPlus		466		0
+L1_BptxMinus		467		0
+L1_UnpairedBunchBptxPlus		468		0
+L1_UnpairedBunchBptxMinus		469		0
+L1_IsolatedBunch		471		110
+L1_FirstBunchBeforeTrain		472		269167
+L1_FirstBunchInTrain		473		269167
+L1_SecondBunchInTrain		474		0
+L1_SecondLastBunchInTrain		475		0
+L1_LastBunchInTrain		476		0
+L1_FirstBunchAfterTrain		477		269167
+L1_LastCollisionInTrain		478		269167
+L1_FirstCollisionInTrain		479		269167
+L1_FirstCollisionInOrbit		480		1103
+L1_BPTX_NotOR_VME		482		0
+L1_BPTX_OR_Ref3_VME		483		0
+L1_BPTX_OR_Ref4_VME		484		0
+L1_BPTX_RefAND_VME		485		0
+L1_BPTX_AND_Ref1_VME		486		0
+L1_BPTX_AND_Ref3_VME		487		0
+L1_BPTX_AND_Ref4_VME		488		0
+L1_BPTX_BeamGas_Ref1_VME		489		0
+L1_BPTX_BeamGas_Ref2_VME		490		0
+L1_BPTX_BeamGas_B1_VME		491		0
+L1_BPTX_BeamGas_B2_VME		492		0
+L1_CDC_SingleMu_3_er1p2_TOP120_DPHI2p618_3p142		494		6
+L1_HCAL_LaserMon_Trig		500		0
+L1_HCAL_LaserMon_Veto		501		0
+L1_TOTEM_1		503		0
+L1_TOTEM_2		504		0
+L1_TOTEM_3		505		0
+L1_TOTEM_4		506		0
+---------------------------- Input Menu -------------------------
+
+
+========================== Column 0 ========================== 
+
+L1Bit     L1SeedName                                                      pre-scale rate@13TeV +/- error_rate@13TeV    pure@13TeV     prop@13TeV     Comments
+0         L1_SingleMuCosmics                                              0         0          +/- 0                   0              0              
+1         L1_SingleMuCosmics_BMTF                                         0         0          +/- 0                   0              0              
+2         L1_SingleMuCosmics_OMTF                                         0         0          +/- 0                   0              0              
+3         L1_SingleMuCosmics_EMTF                                         0         0          +/- 0                   0              0              
+4         L1_SingleMuOpen                                                 63000     38.0527    +/- 21.9698             38.0527        38.0527        
+5         L1_SingleMu0_DQ                                                 0         0          +/- 0                   0              0              
+6         L1_SingleMu0_BMTF                                               0         0          +/- 0                   0              0              
+7         L1_SingleMu0_OMTF                                               0         0          +/- 0                   0              0              
+8         L1_SingleMu0_EMTF                                               0         0          +/- 0                   0              0              
+9         L1_SingleMu3                                                    22000     38.0527    +/- 21.9698             38.0527        38.0527        
+10        L1_SingleMu5                                                    1700      164.895    +/- 45.7337             152.211        154.748        
+11        L1_SingleMu7_DQ                                                 0         0          +/- 0                   0              0              
+12        L1_SingleMu7                                                    200       570.791    +/- 85.0885             507.37         530.624        
+13        L1_SingleMu12_DQ_BMTF                                           0         0          +/- 0                   0              0              
+14        L1_SingleMu12_DQ_OMTF                                           0         0          +/- 0                   0              0              
+15        L1_SingleMu12_DQ_EMTF                                           0         0          +/- 0                   0              0              
+16        L1_SingleMu15_DQ                                                1300      0          +/- 0                   0              0              
+17        L1_SingleMu18                                                   210       38.0527    +/- 21.9698             12.6842        23.2545        
+18        L1_SingleMu20                                                   0         0          +/- 0                   0              0              
+19        L1_SingleMu22                                                   1         5758.65    +/- 270.267             621.528        2750.35        
+20        L1_SingleMu22_BMTF                                              0         0          +/- 0                   0              0              
+21        L1_SingleMu22_OMTF                                              0         0          +/- 0                   0              0              
+22        L1_SingleMu22_EMTF                                              0         0          +/- 0                   0              0              
+23        L1_SingleMu25                                                   1         4807.33    +/- 246.936             0              1992.47        
+25        L1_SingleMu6er1p5                                               0         0          +/- 0                   0              0              
+26        L1_SingleMu7er1p5                                               0         0          +/- 0                   0              0              
+27        L1_SingleMu8er1p5                                               0         0          +/- 0                   0              0              
+28        L1_SingleMu9er1p5                                               0         0          +/- 0                   0              0              
+29        L1_SingleMu10er1p5                                              0         0          +/- 0                   0              0              
+30        L1_SingleMu12er1p5                                              0         0          +/- 0                   0              0              
+31        L1_SingleMu14er1p5                                              0         0          +/- 0                   0              0              
+32        L1_SingleMu16er1p5                                              0         0          +/- 0                   0              0              
+33        L1_SingleMu18er1p5                                              0         0          +/- 0                   0              0              
+39        L1_DoubleMu0_OQ                                                 0         0          +/- 0                   0              0              
+40        L1_DoubleMu0                                                    0         0          +/- 0                   0              0              
+41        L1_DoubleMu0_SQ                                                 1500      25.3685    +/- 17.9382             25.3685        25.3685        
+42        L1_DoubleMu0_SQ_OS                                              0         0          +/- 0                   0              0              
+43        L1_DoubleMu0_Mass_Min1                                          0         0          +/- 0                   0              0              
+44        L1_DoubleMu8_SQ                                                 1         558.107    +/- 84.1378             139.527        231.282        
+45        L1_DoubleMu9_SQ                                                 1         266.369    +/- 58.1265             0              59.0728        
+46        L1_DoubleMu_12_5                                                0         0          +/- 0                   0              0              
+47        L1_DoubleMu_15_5_SQ                                             1         532.738    +/- 82.2033             63.4212        152.109        
+48        L1_DoubleMu_15_7                                                1         266.369    +/- 58.1265             25.3685        56.1512        
+49        L1_DoubleMu_15_7_SQ                                             1         228.316    +/- 53.8147             0              28.9707        
+50        L1_DoubleMu_15_7_Mass_Min1                                      0         0          +/- 0                   0              0              
+51        L1_DoubleMu18er2p1                                              1         25.3685    +/- 17.9382             0              2.55817        
+53        L1_DoubleMu0er2p0_SQ_dR_Max1p4                                  0         0          +/- 0                   0              0              
+54        L1_DoubleMu0er2p0_SQ_OS_dR_Max1p4                               0         0          +/- 0                   0              0              
+55        L1_DoubleMu0er1p5_SQ                                            0         0          +/- 0                   0              0              
+56        L1_DoubleMu0er1p5_SQ_OS                                         450       0          +/- 0                   0              0              
+57        L1_DoubleMu0er1p5_SQ_dR_Max1p4                                  2         2562.22    +/- 180.277             1179.63        1567.38        
+58        L1_DoubleMu0er1p5_SQ_OS_dR_Max1p4                               1         2067.53    +/- 161.942             101.474        669.377        
+59        L1_DoubleMu0er1p4_SQ_OS_dR_Max1p4                               1         1674.32    +/- 145.731             0              451.067        
+60        L1_DoubleMu4_SQ_OS                                              700       0          +/- 0                   0              0              
+61        L1_DoubleMu4_SQ_OS_dR_Max1p2                                    1         1940.69    +/- 156.895             202.948        693.064        
+62        L1_DoubleMu4p5_SQ_OS                                            800       0          +/- 0                   0              0              
+63        L1_DoubleMu4p5_SQ_OS_dR_Max1p2                                  1         1217.69    +/- 124.28              0              327.969        
+64        L1_DoubleMu4p5er2p0_SQ_OS                                       80        25.3685    +/- 17.9382             0              10.5702        
+65        L1_DoubleMu4p5er2p0_SQ_OS_Mass_Min7                             1         1585.53    +/- 141.814             291.738        752.294        
+66        L1_DoubleMu4p5er2p0_SQ_OS_Mass7to18                             1         1014.74    +/- 113.451             0              384.832        
+71        L1_TripleMu0_OQ                                                 0         0          +/- 0                   0              0              
+72        L1_TripleMu0                                                    0         0          +/- 0                   0              0              
+73        L1_TripleMu0_SQ                                                 0         0          +/- 0                   0              0              
+74        L1_TripleMu3                                                    0         0          +/- 0                   0              0              
+75        L1_TripleMu3_SQ                                                 1         684.949    +/- 93.2098             126.842        220.416        
+76        L1_TripleMu_5SQ_3SQ_0OQ                                         35        50.737     +/- 25.3685             0              18.4979        
+77        L1_TripleMu_5_3p5_2p5                                           35        25.3685    +/- 17.9382             12.6842        19.0264        
+78        L1_TripleMu_5_3_3                                               1         684.949    +/- 93.2098             63.4212        183.526        
+79        L1_TripleMu_5_3_3_SQ                                            1         545.423    +/- 83.1762             0              91.0363        
+80        L1_TripleMu_5_5_3                                               1         329.79     +/- 64.6772             0              58.0119        
+82        L1_TripleMu_5_3p5_2p5_OQ_DoubleMu_5_2p5_OQ_OS_Mass_5to17        0         0          +/- 0                   0              0              
+83        L1_TripleMu_5_3p5_2p5_DoubleMu_5_2p5_OS_Mass_5to17              1         443.949    +/- 75.041              12.6842        100.085        
+84        L1_TripleMu_5_4_2p5_DoubleMu_5_2p5_OS_Mass_5to17                1         342.475    +/- 65.9093             0              64.1465        
+85        L1_TripleMu_5SQ_3SQ_0OQ_DoubleMu_5_3_SQ_OS_Mass_Max9            1         520.054    +/- 81.2188             76.1055        169.053        
+86        L1_TripleMu_5SQ_3SQ_0_DoubleMu_5_3_SQ_OS_Mass_Max9              1         342.475    +/- 65.9093             0              64.6192        
+88        L1_QuadMu0_OQ                                                   0         0          +/- 0                   0              0              
+89        L1_QuadMu0                                                      0         0          +/- 0                   0              0              
+90        L1_QuadMu0_SQ                                                   0         0          +/- 0                   0              0              
+96        L1_Mu5_EG23er2p5                                                0         0          +/- 0                   0              0              
+97        L1_Mu7_EG20er2p5                                                1         1052.79    +/- 115.559             139.527        389.49         
+98        L1_Mu7_EG23er2p5                                                1         659.581    +/- 91.4674             0              139.082        
+99        L1_Mu20_EG10er2p5                                               1         862.529    +/- 104.597             63.4212        295.978        
+100       L1_Mu5_LooseIsoEG20er2p5                                        0         0          +/- 0                   0              0              
+101       L1_Mu7_LooseIsoEG20er2p5                                        1         634.212    +/- 89.6912             0              146.889        
+102       L1_Mu7_LooseIsoEG23er2p5                                        1         418.58     +/- 72.8654             0              45.9437        
+104       L1_Mu6_DoubleEG10er2p5                                          0         0          +/- 0                   0              0              
+105       L1_Mu6_DoubleEG12er2p5                                          1         253.685    +/- 56.7257             88.7897        112.761        
+106       L1_Mu6_DoubleEG15er2p5                                          1         76.1055    +/- 31.0699             0              11.6842        
+107       L1_Mu6_DoubleEG17er2p5                                          1         76.1055    +/- 31.0699             0              11.6842        
+109       L1_DoubleMu4_SQ_EG9er2p5                                        0         0          +/- 0                   0              0              
+110       L1_DoubleMu5_SQ_EG9er2p5                                        1         735.686    +/- 96.6003             253.685        381.011        
+112       L1_DoubleMu3_OS_DoubleEG7p5Upsilon                              1         88.7897    +/- 33.5594             63.4212        68.8024        
+113       L1_DoubleMu5Upsilon_OS_DoubleEG3                                1         215.632    +/- 52.2985             0              55.9324        
+119       L1_Mu3_Jet30er2p5                                               11000     12.6842    +/- 12.6842             12.6842        12.6842        
+121       L1_Mu3_Jet16er2p5_dR_Max0p4                                     400       126.842    +/- 40.1111             126.842        126.842        
+122       L1_Mu3_Jet35er2p5_dR_Max0p4                                     256       50.737     +/- 25.3685             50.737         50.737         
+123       L1_Mu3_Jet60er2p5_dR_Max0p4                                     52        50.737     +/- 25.3685             38.0527        40.5896        
+124       L1_Mu3_Jet80er2p5_dR_Max0p4                                     13        76.1055    +/- 31.0699             50.737         61.3072        
+125       L1_Mu3_Jet120er2p5_dR_Max0p8                                    3         63.4212    +/- 28.3628             12.6842        17.9901        
+126       L1_Mu3_Jet120er2p5_dR_Max0p4                                    3         63.4212    +/- 28.3628             0              11.6593        
+128       L1_Mu3er1p5_Jet100er2p5_ETMHF40                                 1         634.212    +/- 89.6912             38.0527        216.602        
+129       L1_Mu3er1p5_Jet100er2p5_ETMHF50                                 1         469.317    +/- 77.1553             0              145.518        
+131       L1_Mu6_HTT240er                                                 1         342.475    +/- 65.9093             12.6842        89.4216        
+132       L1_Mu6_HTT250er                                                 1         241.001    +/- 55.2893             0              53.3868        
+134       L1_Mu10er2p3_Jet32er2p3_dR_Max0p4_DoubleJet32er2p3_dEta_Max1p6  0         0          +/- 0                   0              0              
+135       L1_Mu12er2p3_Jet40er2p3_dR_Max0p4_DoubleJet40er2p3_dEta_Max1p6  1         494.686    +/- 79.2131             0              135.404        
+136       L1_Mu12er2p3_Jet40er2p1_dR_Max0p4_DoubleJet40er2p1_dEta_Max1p6  1         482.001    +/- 78.1909             0              132.232        
+142       L1_DoubleMu0_dR_Max1p6_Jet90er2p5_dR_Max0p8                     1         50.737     +/- 25.3685             0              6.12111        
+143       L1_DoubleMu3_dR_Max1p6_Jet90er2p5_dR_Max0p8                     1         50.737     +/- 25.3685             0              6.12111        
+145       L1_DoubleMu3_SQ_ETMHF50_HTT60er                                 0         0          +/- 0                   0              0              
+146       L1_DoubleMu3_SQ_ETMHF50_Jet60er2p5_OR_DoubleJet40er2p5          1         215.632    +/- 52.2985             25.3685        68.6535        
+147       L1_DoubleMu3_SQ_ETMHF50_Jet60er2p5                              1         190.264    +/- 49.1259             0              43.285         
+148       L1_DoubleMu3_SQ_ETMHF60_Jet60er2p5                              1         114.158    +/- 38.0527             0              21.0728        
+150       L1_DoubleMu3_SQ_HTT220er                                        1         88.7897    +/- 33.5594             0              10.7648        
+151       L1_DoubleMu3_SQ_HTT240er                                        1         63.4212    +/- 28.3628             0              8.04672        
+152       L1_DoubleMu3_SQ_HTT260er                                        1         38.0527    +/- 21.9698             0              5.30808        
+159       L1_SingleEG8er2p5                                               44000     50.737     +/- 25.3685             50.737         50.737         
+160       L1_SingleEG10er2p5                                              7600      215.632    +/- 52.2985             215.632        215.632        
+161       L1_SingleEG15er2p5                                              1350      241.001    +/- 55.2893             228.316        229.109        
+162       L1_SingleEG26er2p5                                              780       38.0527    +/- 21.9698             0              1.11456        
+163       L1_SingleEG28_FWD2p5                                            45        0          +/- 0                   0              0              
+164       L1_SingleEG28er2p5                                              0         0          +/- 0                   0              0              
+165       L1_SingleEG28er2p1                                              0         0          +/- 0                   0              0              
+166       L1_SingleEG28er1p5                                              0         0          +/- 0                   0              0              
+167       L1_SingleEG34er2p5                                              0         0          +/- 0                   0              0              
+168       L1_SingleEG36er2p5                                              1         9728.82    +/- 351.287             228.316        892.719        
+169       L1_SingleEG38er2p5                                              1         8003.76    +/- 318.625             0              532.742        
+170       L1_SingleEG40er2p5                                              1         6735.33    +/- 292.289             0              361.255        
+171       L1_SingleEG42er2p5                                              1         5669.86    +/- 268.175             0              241.863        
+172       L1_SingleEG45er2p5                                              1         4388.75    +/- 235.941             0              153.415        
+173       L1_SingleEG50                                                   0         0          +/- 0                   0              0              
+174       L1_SingleEG60                                                   1         2283.16    +/- 170.177             0              64.3653        
+175       L1_SingleLooseIsoEG26er2p5                                      1         23123.4    +/- 541.574             964.003        3968.77        
+176       L1_SingleLooseIsoEG26er1p5                                      1         9690.76    +/- 350.6               0              802.582        
+177       L1_SingleLooseIsoEG28_FWD2p5                                    1         393.212    +/- 70.6229             190.264        277.37         
+178       L1_SingleLooseIsoEG28er2p5                                      1         18633.2    +/- 486.156             0              1978.84        
+179       L1_SingleLooseIsoEG28er2p1                                      1         12709.6    +/- 401.512             0              785.914        
+180       L1_SingleLooseIsoEG28er1p5                                      1         7927.65    +/- 317.106             0              392.662        
+181       L1_SingleLooseIsoEG30er2p5                                      1         14865.9    +/- 434.239             0              1158.24        
+182       L1_SingleLooseIsoEG30er1p5                                      1         6735.33    +/- 292.289             0              277.836        
+183       L1_SingleIsoEG24er2p1                                           1         14701      +/- 431.824             913.266        2215.45        
+184       L1_SingleIsoEG24er1p5                                           1         9043.87    +/- 338.695             0              855.667        
+185       L1_SingleIsoEG26er2p5                                           1         17491.6    +/- 471.028             0              1697.45        
+186       L1_SingleIsoEG26er2p1                                           1         12747.7    +/- 402.113             0              823.113        
+187       L1_SingleIsoEG26er1p5                                           1         8155.97    +/- 321.64              0              425.541        
+188       L1_SingleIsoEG28_FWD2p5                                         1         190.264    +/- 49.1259             0              84.569         
+189       L1_SingleIsoEG28er2p5                                           1         14878.6    +/- 434.424             0              1009.61        
+190       L1_SingleIsoEG28er2p1                                           1         10908.5    +/- 371.975             0              511.955        
+191       L1_SingleIsoEG28er1p5                                           1         7052.44    +/- 299.09              0              279.954        
+192       L1_SingleIsoEG30er2p5                                           1         12608.1    +/- 399.906             0              683.761        
+193       L1_SingleIsoEG30er2p1                                           1         9500.5     +/- 347.141             0              389.253        
+194       L1_SingleIsoEG32er2p5                                           1         10781.6    +/- 369.806             0              511.076        
+195       L1_SingleIsoEG32er2p1                                           1         8244.76    +/- 323.386             0              306.209        
+196       L1_SingleIsoEG34er2p5                                           1         9525.87    +/- 347.604             0              426.152        
+197       L1_IsoEG32er2p5_Mt40                                            1         8714.08    +/- 332.463             0              387.612        
+198       L1_IsoEG32er2p5_Mt44                                            1         8409.66    +/- 326.604             0              365.258        
+199       L1_IsoEG32er2p5_Mt48                                            1         7965.71    +/- 317.866             0              341.104        
+205       L1_DoubleEG_15_10_er2p5                                         0         0          +/- 0                   0              0              
+206       L1_DoubleEG_20_10_er2p5                                         0         0          +/- 0                   0              0              
+207       L1_DoubleEG_22_10_er2p5                                         0         0          +/- 0                   0              0              
+208       L1_DoubleEG_25_12_er2p5                                         1         3513.54    +/- 211.108             202.948        609.566        
+209       L1_DoubleEG_25_14_er2p5                                         1         2460.74    +/- 176.671             0              307.407        
+210       L1_DoubleEG_27_14_er2p5                                         1         2194.37    +/- 166.835             0              222.643        
+212       L1_DoubleEG_LooseIso20_10_er2p5                                 0         0          +/- 0                   0              0              
+213       L1_DoubleEG_LooseIso22_10_er2p5                                 0         0          +/- 0                   0              0              
+214       L1_DoubleEG_LooseIso22_12_er2p5                                 1         3513.54    +/- 211.108             710.318        977.309        
+215       L1_DoubleEG_LooseIso25_12_er2p5                                 1         2676.38    +/- 184.249             0              219.002        
+217       L1_DoubleLooseIsoEG22er2p1                                      1         139.527    +/- 42.0689             0              4.53811        
+218       L1_DoubleLooseIsoEG24er2p1                                      1         114.158    +/- 38.0527             0              2.89973        
+224       L1_TripleEG_16_12_8_er2p5                                       0         0          +/- 0                   0              0              
+225       L1_TripleEG_16_15_8_er2p5                                       0         0          +/- 0                   0              0              
+226       L1_TripleEG_18_17_8_er2p5                                       1         558.107    +/- 84.1378             63.4212        153.353        
+227       L1_TripleEG_18_18_12_er2p5                                      1         241.001    +/- 55.2893             0              55.2146        
+228       L1_TripleEG16er2p5                                              1         76.1055    +/- 31.0699             0              7.00654        
+234       L1_LooseIsoEG26er2p1_Jet34er2p5_dR_Min0p3                       0         0          +/- 0                   0              0              
+235       L1_LooseIsoEG28er2p1_Jet34er2p5_dR_Min0p3                       1         5885.49    +/- 273.227             0              293.016        
+236       L1_LooseIsoEG30er2p1_Jet34er2p5_dR_Min0p3                       1         5111.75    +/- 254.634             0              212.325        
+238       L1_LooseIsoEG24er2p1_HTT100er                                   0         0          +/- 0                   0              0              
+239       L1_LooseIsoEG26er2p1_HTT100er                                   1         6380.18    +/- 284.478             0              360.568        
+240       L1_LooseIsoEG28er2p1_HTT100er                                   1         5822.07    +/- 271.751             0              252.904        
+241       L1_LooseIsoEG30er2p1_HTT100er                                   1         5289.33    +/- 259.02              0              200.008        
+247       L1_DoubleEG8er2p5_HTT260er                                      0         0          +/- 0                   0              0              
+248       L1_DoubleEG8er2p5_HTT280er                                      0         0          +/- 0                   0              0              
+249       L1_DoubleEG8er2p5_HTT300er                                      1         646.897    +/- 90.5836             0              35.851         
+250       L1_DoubleEG8er2p5_HTT320er                                      1         570.791    +/- 85.0885             0              29.0667        
+251       L1_DoubleEG8er2p5_HTT340er                                      1         507.37     +/- 80.2222             0              22.5353        
+257       L1_LooseIsoEG22er2p1_IsoTau26er2p1_dR_Min0p3                    1         2904.69    +/- 191.947             304.422        536.971        
+258       L1_LooseIsoEG24er2p1_IsoTau27er2p1_dR_Min0p3                    1         2346.59    +/- 172.524             0              192.786        
+259       L1_LooseIsoEG22er2p1_Tau70er2p1_dR_Min0p3                       1         570.791    +/- 85.0885             0              20.2634        
+264       L1_SingleTau120er2p1                                            1         1598.21    +/- 142.38              12.6842        131.385        
+265       L1_SingleTau130er2p1                                            1         1243.06    +/- 125.568             0              54.116         
+267       L1_DoubleTau70er2p1                                             1         1369.9     +/- 131.819             0              142.592        
+269       L1_DoubleIsoTau28er2p1                                          0         0          +/- 0                   0              0              
+270       L1_DoubleIsoTau30er2p1                                          0         0          +/- 0                   0              0              
+271       L1_DoubleIsoTau32er2p1                                          1         7737.39    +/- 313.278             1052.79        2610.56        
+272       L1_DoubleIsoTau34er2p1                                          1         6430.91    +/- 285.607             0              1527.07        
+273       L1_DoubleIsoTau36er2p1                                          1         5885.49    +/- 273.227             0              1315.87        
+274       L1_DoubleIsoTau28er2p1_Mass_Max90                               0         0          +/- 0                   0              0              
+275       L1_DoubleIsoTau28er2p1_Mass_Max80                               0         0          +/- 0                   0              0              
+276       L1_DoubleIsoTau30er2p1_Mass_Max90                               0         0          +/- 0                   0              0              
+277       L1_DoubleIsoTau30er2p1_Mass_Max80                               0         0          +/- 0                   0              0              
+279       L1_Mu18er2p1_Tau24er2p1                                         1         2118.27    +/- 163.917             329.79         848.112        
+280       L1_Mu18er2p1_Tau26er2p1                                         1         1052.79    +/- 115.559             0              278.821        
+282       L1_Mu22er2p1_IsoTau28er2p1                                      0         0          +/- 0                   0              0              
+283       L1_Mu22er2p1_IsoTau30er2p1                                      0         0          +/- 0                   0              0              
+284       L1_Mu22er2p1_IsoTau32er2p1                                      1         266.369    +/- 58.1265             0              23.4748        
+285       L1_Mu22er2p1_IsoTau34er2p1                                      1         266.369    +/- 58.1265             0              23.4748        
+286       L1_Mu22er2p1_IsoTau36er2p1                                      1         228.316    +/- 53.8147             0              18.4414        
+287       L1_Mu22er2p1_IsoTau40er2p1                                      1         190.264    +/- 49.1259             0              15.9649        
+289       L1_Mu22er2p1_Tau70er2p1                                         1         88.7897    +/- 33.5594             0              5.96669        
+291       L1_IsoTau40er2p1_ETMHF80                                        0         0          +/- 0                   0              0              
+292       L1_IsoTau40er2p1_ETMHF90                                        1         1496.74    +/- 137.786             304.422        384.157        
+293       L1_IsoTau40er2p1_ETMHF100                                       1         951.318    +/- 109.849             0              51.9809        
+294       L1_IsoTau40er2p1_ETMHF110                                       1         748.371    +/- 97.4295             0              31.0375        
+298       L1_QuadJet36er2p5_IsoTau52er2p1                                 190       0          +/- 0                   0              0              
+309       L1_SingleJet35                                                  64000     38.0527    +/- 21.9698             38.0527        38.0527        
+310       L1_SingleJet60                                                  17000     12.6842    +/- 12.6842             12.6842        12.6842        
+311       L1_SingleJet90                                                  1500      12.6842    +/- 12.6842             0              3.17106        
+312       L1_SingleJet120                                                 350       25.3685    +/- 17.9382             12.6842        14.7983        
+313       L1_SingleJet180                                                 1         1725.06    +/- 147.922             25.3685        125.751        
+314       L1_SingleJet200                                                 1         1243.06    +/- 125.568             0              53.8626        
+316       L1_SingleJet35er2p5                                             0         0          +/- 0                   0              0              
+317       L1_SingleJet60er2p5                                             0         0          +/- 0                   0              0              
+318       L1_SingleJet90er2p5                                             0         0          +/- 0                   0              0              
+319       L1_SingleJet120er2p5                                            0         0          +/- 0                   0              0              
+320       L1_SingleJet140er2p5                                            0         0          +/- 0                   0              0              
+321       L1_SingleJet160er2p5                                            0         0          +/- 0                   0              0              
+322       L1_SingleJet180er2p5                                            1         1623.58    +/- 143.506             0              95.9608        
+324       L1_SingleJet35_FWD3p0                                           103000    0          +/- 0                   0              0              
+325       L1_SingleJet60_FWD3p0                                           770       25.3685    +/- 17.9382             25.3685        25.3685        
+326       L1_SingleJet90_FWD3p0                                           250       0          +/- 0                   0              0              
+327       L1_SingleJet120_FWD3p0                                          40        0          +/- 0                   0              0              
+329       L1_SingleJet8erHE                                               0         0          +/- 0                   0              0              
+330       L1_SingleJet10erHE                                              0         0          +/- 0                   0              0              
+331       L1_SingleJet12erHE                                              0         0          +/- 0                   0              0              
+332       L1_SingleJet140er2p5_ETMHF70                                    0         0          +/- 0                   0              0              
+333       L1_SingleJet140er2p5_ETMHF80                                    0         0          +/- 0                   0              0              
+334       L1_SingleJet140er2p5_ETMHF90                                    0         0          +/- 0                   0              0              
+340       L1_DoubleJet40er2p5                                             8400      12.6842    +/- 12.6842             12.6842        12.6842        
+341       L1_DoubleJet100er2p5                                            170       12.6842    +/- 12.6842             0              6.34212        
+342       L1_DoubleJet120er2p5                                            70        25.3685    +/- 17.9382             0              5.20379        
+343       L1_DoubleJet150er2p5                                            1         684.949    +/- 93.2098             0              41.2801        
+345       L1_DoubleJet100er2p3_dEta_Max1p6                                0         0          +/- 0                   0              0              
+346       L1_DoubleJet112er2p3_dEta_Max1p6                                1         1661.64    +/- 145.178             177.579        392.679        
+348       L1_DoubleJet30er2p5_Mass_Min150_dEta_Max1p5                     0         0          +/- 0                   0              0              
+349       L1_DoubleJet30er2p5_Mass_Min200_dEta_Max1p5                     0         0          +/- 0                   0              0              
+350       L1_DoubleJet30er2p5_Mass_Min250_dEta_Max1p5                     0         0          +/- 0                   0              0              
+351       L1_DoubleJet30er2p5_Mass_Min300_dEta_Max1p5                     1         1306.48    +/- 128.731             25.3685        182.362        
+352       L1_DoubleJet30er2p5_Mass_Min330_dEta_Max1p5                     1         862.529    +/- 104.597             0              57.0004        
+353       L1_DoubleJet30er2p5_Mass_Min360_dEta_Max1p5                     1         621.528    +/- 88.7897             0              27.3403        
+355       L1_DoubleJet_90_30_DoubleJet30_Mass_Min620                      0         0          +/- 0                   0              0              
+356       L1_DoubleJet_100_30_DoubleJet30_Mass_Min620                     0         0          +/- 0                   0              0              
+357       L1_DoubleJet_110_35_DoubleJet35_Mass_Min620                     1         2042.16    +/- 160.945             215.632        480.803        
+358       L1_DoubleJet_115_40_DoubleJet40_Mass_Min620                     1         1699.69    +/- 146.831             0              235.396        
+359       L1_DoubleJet_120_45_DoubleJet45_Mass_Min620                     1         1395.27    +/- 133.033             0              157.43         
+360       L1_DoubleJet_115_40_DoubleJet40_Mass_Min620_Jet60TT28           1         1661.64    +/- 145.178             0              221.126        
+361       L1_DoubleJet_120_45_DoubleJet45_Mass_Min620_Jet60TT28           1         1382.58    +/- 132.427             0              155.844        
+363       L1_DoubleJet35_Mass_Min450_IsoTau45_RmOvlp                      0         0          +/- 0                   0              0              
+364       L1_DoubleJet_80_30_Mass_Min420_IsoTau40_RmOvlp                  0         0          +/- 0                   0              0              
+365       L1_DoubleJet_80_30_Mass_Min420_Mu8                              0         0          +/- 0                   0              0              
+366       L1_DoubleJet_80_30_Mass_Min420_DoubleMu0_SQ                     0         0          +/- 0                   0              0              
+372       L1_TripleJet_95_75_65_DoubleJet_75_65_er2p5                     1         1446       +/- 135.431             101.474        301.515        
+373       L1_TripleJet_100_80_70_DoubleJet_80_70_er2p5                    1         989.371    +/- 112.024             0              120.049        
+374       L1_TripleJet_105_85_75_DoubleJet_85_75_er2p5                    1         786.423    +/- 99.8759             0              92.0682        
+376       L1_QuadJet_95_75_65_20_DoubleJet_75_65_er2p5_Jet20_FWD3p0       1         418.58     +/- 72.8654             0              80.1476        
+382       L1_QuadJet60er2p5                                               0         0          +/- 0                   0              0              
+384       L1_HTT280er_QuadJet_70_55_40_35_er2p4                           0         0          +/- 0                   0              0              
+385       L1_HTT320er_QuadJet_70_55_40_40_er2p4                           1         710.318    +/- 94.9202             12.6842        99.1181        
+386       L1_HTT320er_QuadJet_80_60_er2p1_45_40_er2p3                     1         596.16     +/- 86.9588             0              68.1961        
+387       L1_HTT320er_QuadJet_80_60_er2p1_50_45_er2p3                     1         418.58     +/- 72.8654             0              39.7788        
+398       L1_HTT120er                                                     11400     0          +/- 0                   0              0              
+399       L1_HTT160er                                                     4100      0          +/- 0                   0              0              
+400       L1_HTT200er                                                     1600      0          +/- 0                   0              0              
+401       L1_HTT255er                                                     500       12.6842    +/- 12.6842             0              0.189317       
+402       L1_HTT280er                                                     0         0          +/- 0                   0              0              
+403       L1_HTT320er                                                     0         0          +/- 0                   0              0              
+404       L1_HTT360er                                                     1         1572.85    +/- 141.246             0              96.7348        
+405       L1_HTT400er                                                     1         1116.21    +/- 118.989             0              40.2891        
+406       L1_HTT450er                                                     1         849.844    +/- 103.825             0              24.6278        
+410       L1_ETT1200                                                      0         0          +/- 0                   0              0              
+411       L1_ETT1600                                                      0         0          +/- 0                   0              0              
+412       L1_ETT2000                                                      1         393.212    +/- 70.6229             0              6.53707        
+416       L1_ETM120                                                       0         0          +/- 0                   0              0              
+417       L1_ETM150                                                       1         443.949    +/- 75.041              0              11.0442        
+421       L1_ETMHF100                                                     1         1889.95    +/- 154.831             443.949        672.253        
+422       L1_ETMHF110                                                     1         1090.85    +/- 117.629             0              131.255        
+423       L1_ETMHF120                                                     1         824.476    +/- 102.264             0              57.8947        
+424       L1_ETMHF130                                                     1         608.844    +/- 87.879              0              25.1303        
+425       L1_ETMHF140                                                     1         507.37     +/- 80.2222             0              11.8695        
+426       L1_ETMHF150                                                     1         469.317    +/- 77.1553             0              10.1836        
+428       L1_ETMHF90_HTT60er                                              0         0          +/- 0                   0              0              
+429       L1_ETMHF100_HTT60er                                             1         1268.42    +/- 126.842             0              152.199        
+430       L1_ETMHF110_HTT60er                                             1         913.266    +/- 107.629             0              55.15          
+431       L1_ETMHF120_HTT60er                                             1         761.055    +/- 98.2517             0              38.8684        
+432       L1_ETMHF130_HTT60er                                             1         583.475    +/- 86.0287             0              18.7882        
+443       L1_ETMHF120_NotSecondBunchInTrain                               0         0          +/- 0                   0              0              
+444       L1_ETMHF110_HTT60er_NotSecondBunchInTrain                       0         0          +/- 0                   0              0              
+458       L1_AlwaysTrue                                                   0         0          +/- 0                   0              0              
+459       L1_ZeroBias                                                     17881     0          +/- 0                   0              0              
+460       L1_ZeroBias_copy                                                0         0          +/- 0                   0              0              
+461       L1_MinimumBiasHF0_AND_BptxAND                                   0         0          +/- 0                   0              0              
+463       L1_NotBptxOR                                                    0         0          +/- 0                   0              0              
+464       L1_BptxOR                                                       0         0          +/- 0                   0              0              
+465       L1_BptxXOR                                                      0         0          +/- 0                   0              0              
+466       L1_BptxPlus                                                     0         0          +/- 0                   0              0              
+467       L1_BptxMinus                                                    0         0          +/- 0                   0              0              
+468       L1_UnpairedBunchBptxPlus                                        0         0          +/- 0                   0              0              
+469       L1_UnpairedBunchBptxMinus                                       0         0          +/- 0                   0              0              
+471       L1_IsolatedBunch                                                110       0          +/- 0                   0              0              
+472       L1_FirstBunchBeforeTrain                                        269167    0          +/- 0                   0              0              
+473       L1_FirstBunchInTrain                                            269167    0          +/- 0                   0              0              
+474       L1_SecondBunchInTrain                                           0         0          +/- 0                   0              0              
+475       L1_SecondLastBunchInTrain                                       0         0          +/- 0                   0              0              
+476       L1_LastBunchInTrain                                             0         0          +/- 0                   0              0              
+477       L1_FirstBunchAfterTrain                                         269167    0          +/- 0                   0              0              
+478       L1_LastCollisionInTrain                                         269167    0          +/- 0                   0              0              
+479       L1_FirstCollisionInTrain                                        269167    0          +/- 0                   0              0              
+480       L1_FirstCollisionInOrbit                                        1103      0          +/- 0                   0              0              
+482       L1_BPTX_NotOR_VME                                               0         0          +/- 0                   0              0              
+483       L1_BPTX_OR_Ref3_VME                                             0         0          +/- 0                   0              0              
+484       L1_BPTX_OR_Ref4_VME                                             0         0          +/- 0                   0              0              
+485       L1_BPTX_RefAND_VME                                              0         0          +/- 0                   0              0              
+486       L1_BPTX_AND_Ref1_VME                                            0         0          +/- 0                   0              0              
+487       L1_BPTX_AND_Ref3_VME                                            0         0          +/- 0                   0              0              
+488       L1_BPTX_AND_Ref4_VME                                            0         0          +/- 0                   0              0              
+489       L1_BPTX_BeamGas_Ref1_VME                                        0         0          +/- 0                   0              0              
+490       L1_BPTX_BeamGas_Ref2_VME                                        0         0          +/- 0                   0              0              
+491       L1_BPTX_BeamGas_B1_VME                                          0         0          +/- 0                   0              0              
+492       L1_BPTX_BeamGas_B2_VME                                          0         0          +/- 0                   0              0              
+494       L1_CDC_SingleMu_3_er1p2_TOP120_DPHI2p618_3p142                  6         0          +/- 0                   0              0              
+500       L1_HCAL_LaserMon_Trig                                           0         0          +/- 0                   0              0              
+501       L1_HCAL_LaserMon_Veto                                           0         0          +/- 0                   0              0              
+503       L1_TOTEM_1                                                      0         0          +/- 0                   0              0              
+504       L1_TOTEM_2                                                      0         0          +/- 0                   0              0              
+505       L1_TOTEM_3                                                      0         0          +/- 0                   0              0              
+506       L1_TOTEM_4                                                      0         0          +/- 0                   0              0              
+
+Total rate  = 55.2272 +/- 0.836968 (kHz)
+
+Total rate (with overlaps) = 460.667 (kHz)
+
+Total pure rate  = 11.5427 (kHz)
+
+Total prop rate  = 55.2272 (kHz)
